@@ -1,0 +1,2 @@
+body{font-family:Helvetica Neue,sans-serif}.product-gallery{grid-gap:10px;display:grid;gap:10px;grid-template-columns:repeat(3,1fr);justify-items:center}.goods-card{padding:10px;text-align:center}.goods-card img{height:200px;object-fit:cover;width:100%}.goods-card h3{font-size:1.2em;margin:10px 0}.goods-card p{color:#848484;font-size:1em;font-style:italic}
+/*# sourceMappingURL=main.8cdd7e5b.css.map*/
